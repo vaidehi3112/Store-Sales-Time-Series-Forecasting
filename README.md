@@ -17,4 +17,5 @@ This project seeks to predict the salesfor each product family and store combina
 
 ### Dataset:
 The attributes provided in dataset includes dates, store, product information, whether the item was promoted, and sales statistics in the training data.
-[Link to the Dataset](https://drive.google.com/drive/folders/13i45_AkEHKkEvIsvj2kotSEssyvGfC4-)
+
+[Link to the Dataset](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data)
